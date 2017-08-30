@@ -1,0 +1,11 @@
+#image {
+    color: transparent;
+    padding: 2px 2px;
+}
+
+span {
+    float: left;
+    margin-right: 20px;
+    border: 1px solid #cccccc;
+    padding: 2px 2px;
+}
