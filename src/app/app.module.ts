@@ -29,12 +29,12 @@ const appRoutes: Routes = [
 ];
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyA_StJucnWHlqP9Rxhs00_xPXyfiFLs9GE",
-    authDomain: "proplistings-d1cb9.firebaseapp.com",
-    databaseURL: "https://proplistings-d1cb9.firebaseio.com",
-    projectId: "proplistings-d1cb9",
-    storageBucket: "proplistings-d1cb9.appspot.com",
-    messagingSenderId: "687346793335"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 
 @NgModule({
